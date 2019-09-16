@@ -1,6 +1,12 @@
 # IGEEK
 
-The Interactive Generative Evolving Environment for Kabuki (IGEEK) is a biomimicry experiment that models the human immune system to create a GUI that allows humans to make interesting combinations and generate interesting things using genetic algoirhms. In the future we will be creating a UML modeling library to fascilitate creating the KabukiNet, an AI neural network model based on IMUL and MXNet.
+The Interactive Gym Environment and Educational Kit (IGEEK) is a toolkit for developing AI solutions. This app used to be in Java and is only half ported; sorry for the inconvenience. The new version uses a HTML5/JavaScript/React interface.
+
+[![GitHub version](https://badge.fury.io/gh/kabuki-starship%2Figeek.svg)](https://badge.fury.io/gh/kabuki-starship%2Figeek)
+
+## Mission and Vision
+
+The mission of IGEEK is to use mimicry sciences to help make better AI solutions. Our vision is to use mimicry in some bizarre ways to create awesome things; we envision you saying: "that is weird; I love it!".
 
 ## License
 
